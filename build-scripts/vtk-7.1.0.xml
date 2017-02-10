@@ -1,0 +1,6 @@
+<!DOCTYPE BuildScript>
+<library>
+	<name>VTK</name>
+	<version>7.1.0</version>
+	<url protocol='http'>https://sourceforge.net/projects/boost/files/boost/1.62.0/boost_1_62_0.7z/download</url>
+</library>

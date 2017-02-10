@@ -1,0 +1,6 @@
+<!DOCTYPE BuildScript>
+<library type='cmake'>
+	<name>pugixml</name>
+	<version>1.8</version>
+	<url protocol='http'>http://github.com/zeux/pugixml/releases/download/v1.8/pugixml-1.8.zip</url>
+</library>

@@ -1,0 +1,7 @@
+<!DOCTYPE BuildScript>
+<library type='cmake'>
+	<name>VTK</name>
+	<version>6.3.0</version>
+	<url protocol='http'>https://sourceforge.net/projects/boost/files/boost/1.62.0/boost_1_62_0.7z/download</url>
+	<option>-DCMAKE_PREFIX_PATH=%QTDIR% -DVTK_Group_Qt=ON -DVTK_QT_VERSION=5 -DVTK_SMP_IMPLEMENTATION_TYPE=OpenMP -DVTK_USE_CXX11_FEATURES=ON -DBUILD_SHARED_LIBS=OFF -DCMAKE_INSTALL_PREFIX=%VTK_CMAKE_INSTALL_ROOT%/debug</option>
+</library>

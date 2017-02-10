@@ -1,0 +1,6 @@
+<!DOCTYPE BuildScript>
+<library>
+	<name>wxWidget</name>
+	<version>3.1.0</version>
+	<url protocol='http'>https://github.com/wxWidgets/wxWidgets/releases/download/v3.1.0/wxWidgets-3.1.0.7z</url>
+</library>

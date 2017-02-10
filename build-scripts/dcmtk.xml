@@ -1,0 +1,6 @@
+<!DOCTYPE BuildScript>
+<library type='cmake'>
+	<name>DCMTK</name>
+	<version>dcmtk-3.6.1_20161102</version>
+	<url protocol='http'>http://dicom.offis.de/download/dcmtk/snapshot/dcmtk-3.6.1_20161102.tar.gz</url>
+</library>

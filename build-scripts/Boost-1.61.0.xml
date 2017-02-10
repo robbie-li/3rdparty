@@ -1,0 +1,6 @@
+<!DOCTYPE BuildScript>
+<library type='boost'>
+	<name>Boost</name>
+	<version>1.61.0</version>
+	<url protocol='http'>https://sourceforge.net/projects/boost/files/boost/1.61.0/boost_1_61_0.7z</url>
+</library>
